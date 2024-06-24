@@ -1,0 +1,94 @@
+
+[
+    {
+        "id": 1,
+        "title": "Mean Girls",
+        "image": "1.jpg",
+        "genre": "comedy",
+        "rating": "7.1"
+    },
+    {
+        "id": 2,
+        "title": "Tall girl",
+        "image": "2.jpg",
+        "genre": "comedy",
+        "rating": "5.4"
+    },
+    {
+        "id": 3,
+        "title": "Do Revenge",
+        "image": "3.jpg",
+        "genre": "comedy",
+        "rating": "6.3"
+    },
+    {
+        "id": 4,
+        "title": "The school for good and evil",
+        "image": "4.jpg",
+        "genre": "fantasy",
+        "rating": "6.9"
+    },
+    {
+        "id": 5,
+        "title": "Damsel",
+        "image": "5.jpg",
+        "genre": "fantasy",
+        "rating": "6.5"
+    },
+    {
+        "id": 6,
+        "title": "Journey to the Center of the Earth",
+        "image": "6.jpg",
+        "genre": "adventure",
+        "rating": "6.1"
+    },
+    {
+        "id": 7,
+        "title": "2012",
+        "image": "7.jpg",
+        "genre": "adventure",
+        "rating": "5.8"
+    },
+    {
+        "id": 8,
+        "title": "Enola Holmes",
+        "image": "8.jpg",
+        "genre": "mystery",
+        "rating": "7.1"
+    },
+    {
+        "id": 9,
+        "title": "Sherlock Holmes",
+        "image": "9.jpg",
+        "genre": "mystery",
+        "rating": "7.6"
+    },
+    {
+        "id": 10,
+        "title": "Senior Year",
+        "image": "10.jpg",
+        "genre": "comedy",
+        "rating": "5.9"
+    },
+    {
+        "id": 11,
+        "title": "Little Women",
+        "image": "11.jpg",
+        "genre": "drama",
+        "rating": "7.8"
+    },
+    {
+        "id": 12,
+        "title": "Pride & Prejudice",
+        "image": "12.jpg",
+        "genre": "romance",
+        "rating": "8.2"
+    },
+    {
+        "id": 13,
+        "title": "Persuasion",
+        "image": "13.jpg",
+        "genre": "romance",
+        "rating": "5.7"
+    }
+]
