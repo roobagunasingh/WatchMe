@@ -1,0 +1,28 @@
+body{
+    background-color: #000;
+    width: 100%;
+}
+
+h1{
+    color: #fff;
+    font-size: 3em;
+    text-align: center;
+}
+p{
+    color: #fff;
+    font-size: 1em;
+    text-align: center;
+}
+div{
+    color: #fff;
+    font-size: 1em;
+    text-align: center;
+}
+.movie-card{
+    width: 100px;
+    height: 200px;
+}
+.movie-grid{
+    width: 1200px;
+    height: 1600px;
+}
